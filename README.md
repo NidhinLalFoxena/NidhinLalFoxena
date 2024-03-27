@@ -9,16 +9,16 @@
 ## Industry Projects
 
 - [Ultraviolette Application and Website](https://www.ultraviolette.com)
-  Description: Worked on the development of the Ultraviolette application and website.
+  Description: Currently working on the development of the Ultraviolette application and website.
   
+- Xpd8 Project
+  Description: Currently involved in the ongoing development of the Xpd8 project.  
+
 - [The Ceyone Website](https://www.theceyone.com)
   Description: Contributed to the development of The Ceyone website.
 
 - [Sunonix Website](https://sunonix.com)
   Description: Participated in the development of the Sunonix website.
-
-- [Xpd8 Project](#)
-  Description: Currently involved in the Xpd8 project.
 
 - 🌱 I’m currently learning **Next.js**
 
