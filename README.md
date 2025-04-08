@@ -9,6 +9,7 @@
 
  ## Current Focus
 
+- 📍 **AI**
 - 📍 **Next.js**
 - 📍 **React.js**
 - 📍 **FLUTTER**
